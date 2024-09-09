@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DoingWell</string>
+    <string name="login_text">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_text">Register For New User</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_hint">Confirm Password</string>
+    <string name="registration_text">Registration</string>
+    <string name="register_btn">Register</string>
+</resources>
